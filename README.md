@@ -11,4 +11,4 @@ For this project, we used [Jupyter Lab](https://jupyter.org/) to both conduct th
 To access the notebook and an HTML version of presentation rendered from [Jupyter Lab](https://jupyter.org/) in [Reveal.js](https://revealjs.com/), follow this link to [Download the Resository](https://github.com/lsimpsonlibrary/systematic_review_research_loex_2022/archive/refs/heads/main.zip), or select the drop down menu for `Code` in the options above this `README`. Then, select `Download Zip`.
 
 ## Repository Directory
-### [Loex Presentation Jupyter Notebook](https://github.com/lsimpsonlibrary/systematic_review_research_loex_2022/blob/ef2b7e2d663de5a9353a072c01b4794a21d9d96e/loex_presentation_upload.ipynb)
+### [Loex Presentation Jupyter Notebook](https://github.com/lsimpsonlibrary/systematic_review_research_loex_2022/blob/39e685e12efd46dce16e75a96519f73a143dda12/systematic_review_output_ua_loex_presentation_simpson.ipynb)
